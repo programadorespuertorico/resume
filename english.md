@@ -1,7 +1,6 @@
 # Yourname Here &ndash; Senior Front-End Engineer
-> [yourwebsite.com](https://yourwebsite.com) | 
-[you@gmail.com](mailto:you@gmail.com) | 
-[787.000.0000](tel:7870000000)
+> [787.123.4567](tel:7870000000) | [you@gmail.com](mailto:you@gmail.com) | [yourwebsite.com](https://yourwebsite.com) | [@github/you](https://github.com/you) 
+
 - 6+ years of experience as a software engineer in various industries
 - Full stack skill-set with a concentration on front-end engineering
 - Owns a small consulting company to channel mid-range freelance work
